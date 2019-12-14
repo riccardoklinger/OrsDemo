@@ -1,0 +1,6 @@
+.jimu-widget-demo div:first-child{
+  color: green;
+}
+.jimu-widget-demo div:nth-of-type(2) {
+  color: red;
+}
